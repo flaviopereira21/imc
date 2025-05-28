@@ -1,0 +1,16 @@
+C:\Users\flavi\source\repos\calcular imc\calcular imc\bin\Debug\net8.0-windows\calcular imc.exe
+C:\Users\flavi\source\repos\calcular imc\calcular imc\bin\Debug\net8.0-windows\calcular imc.deps.json
+C:\Users\flavi\source\repos\calcular imc\calcular imc\bin\Debug\net8.0-windows\calcular imc.runtimeconfig.json
+C:\Users\flavi\source\repos\calcular imc\calcular imc\bin\Debug\net8.0-windows\calcular imc.dll
+C:\Users\flavi\source\repos\calcular imc\calcular imc\bin\Debug\net8.0-windows\calcular imc.pdb
+C:\Users\flavi\source\repos\calcular imc\calcular imc\obj\Debug\net8.0-windows\calcular_imc.Form1.resources
+C:\Users\flavi\source\repos\calcular imc\calcular imc\obj\Debug\net8.0-windows\calcular imc.csproj.GenerateResource.cache
+C:\Users\flavi\source\repos\calcular imc\calcular imc\obj\Debug\net8.0-windows\calcular imc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\source\repos\calcular imc\calcular imc\obj\Debug\net8.0-windows\calcular imc.AssemblyInfoInputs.cache
+C:\Users\flavi\source\repos\calcular imc\calcular imc\obj\Debug\net8.0-windows\calcular imc.AssemblyInfo.cs
+C:\Users\flavi\source\repos\calcular imc\calcular imc\obj\Debug\net8.0-windows\calcular imc.csproj.CoreCompileInputs.cache
+C:\Users\flavi\source\repos\calcular imc\calcular imc\obj\Debug\net8.0-windows\calcular imc.dll
+C:\Users\flavi\source\repos\calcular imc\calcular imc\obj\Debug\net8.0-windows\refint\calcular imc.dll
+C:\Users\flavi\source\repos\calcular imc\calcular imc\obj\Debug\net8.0-windows\calcular imc.pdb
+C:\Users\flavi\source\repos\calcular imc\calcular imc\obj\Debug\net8.0-windows\calcular imc.genruntimeconfig.cache
+C:\Users\flavi\source\repos\calcular imc\calcular imc\obj\Debug\net8.0-windows\ref\calcular imc.dll
